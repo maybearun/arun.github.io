@@ -37,7 +37,7 @@ a{
     transition: transform ease-in;
 }
 a:hover{
-    color:#EAEAEA;
+    color:#FC5185;
     transform: scale(1);
 }
 .nav-container{
